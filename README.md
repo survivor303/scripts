@@ -11,4 +11,4 @@ So then the script just change the screen resolution to second largest one, and 
 That fast resolution jumping, fix the plasma 5 refresh issues.
 
 # muunnos.ps1
-This Powershell script allows changing the codec of video files from any MP4 codec to HEVC (h.264 to h.265), using ffmpeg, exiftool, and an NVIDIA graphics card. The script prompts for the file to be converted and the desired bitrate, while keeping all other information the same as the original video file. Exiftool is also used to adjust the new video file’s physical timestamp data to match the original.”
+This Powershell script allows changing the codec of video files from any MP4 codec to HEVC (h.264 to h.265), using ffmpeg, exiftool, and an NVIDIA graphics card. The script prompts or ask the file to be converted and the desired bitrate, while keeping all other information same as the original video file. Exiftool is also used to adjust new video file’s physical timestamp data to match the original.”
